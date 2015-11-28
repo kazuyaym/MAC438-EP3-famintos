@@ -1,0 +1,20 @@
+MAC0438 - EP03
+
+Marcela M. Terakado 6797654
+Marcos K. Yamazaki  7577622
+
+Fizemos o programa em Java. Para instalar, utilizamos:
+sudo apt-get install openjdk-7-jre
+sudo apt-get install openjdk-7-jdk
+
+Para compilar o programa, basta digitar no terminal (onde estão os arquivos .java):
+make
+
+E, para rodar o programa, basta digitar no terminal:
+java Main arquivo-de-entrada R U|P
+
+onde R é o número de porções e U|P são as opções de como o programa vai rodar.
+
+O programa só funciona se o arquivo-de-entrada for exatamente como o específicado
+no enunciado e se os parametros da entrada estiverem nesta ordem.
+
